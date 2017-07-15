@@ -1,0 +1,9 @@
+.question {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.answer {
+    border: 0.5px solid black;
+}
+
